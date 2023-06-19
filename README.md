@@ -4,7 +4,7 @@ RealWorld API Spec을 준수하는 실제 예제(CRUD 및 인증)가 포함된 K
 
 User 엔터티를 대상으로 CRUD 작업, 간단한 인증 예시, 라우팅 등이 포함되어 있음
 
-## 개발환경 (2023-06-19 기준, 하위호환 확인 X)
+## 개발환경 (2023-06-19 기준)
 * Java 17 installed and set as default
 * gradle 8.1.1 or higher installed
 
